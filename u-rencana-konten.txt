@@ -2,6 +2,7 @@ RENCANA KONTEN U:
 --vlog
  * Makan
  * Jalan-jalan
+ * racing
 --Tutor
---game
 --reaction
+ * ML
