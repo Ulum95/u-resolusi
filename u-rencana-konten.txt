@@ -2,6 +2,10 @@ RENCANA KONTEN U:
 --vlog
  * Makan
  * Jalan-jalan
+ * Tidur
 --Tutor
+ * Mobil
 --game
 --reaction
+ * ML
+ * Game
